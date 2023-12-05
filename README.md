@@ -1,4 +1,4 @@
-# Polygon zkEVM
+## Polygon zkEVM
 # Description of the project
 It is `pragma circom 2.0.0` language, which is a declarative language used for describing and implementing arithmetic circuits. This language is used in the context of zero-knowledge proofs and cryptographic applications to specify circuits and their logic.
 ## Description
